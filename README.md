@@ -2,7 +2,7 @@
 
 ## Sintaxis y Semantica del Lenguaje 
 
-Alumno : Brian Colman 
-Docente : Roxana Leituz 
-Curso : k-2055
-Anio : 2022 
+* Alumno : Brian Colman 
+* Docente : Roxana Leituz 
+* Curso : k-2055
+* Anio : 2022 
